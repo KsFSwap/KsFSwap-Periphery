@@ -2,9 +2,6 @@
 
 # KsfSwap Periphery
 
-[![Tests](https://github.com/KsfSwap/KsfSwap-periphery/workflows/Tests/badge.svg)](https://github.com/KsfSwap/KsfSwap-periphery/actions?query=workflow%3ATests)
-[![Lint](https://github.com/KsfSwap/KsfSwap-periphery/workflows/Lint/badge.svg)](https://github.com/KsfSwap/KsfSwap-periphery/actions?query=workflow%3ALint)
-
 This repository contains the periphery smart contracts for the KsfSwap Protocol.
 For the lower level core contracts, see the [KsfSwap-core](https://github.com/KsfSwap/KsfSwap-core)
 repository.
