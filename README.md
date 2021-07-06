@@ -1,4 +1,4 @@
-![Ksfperiphery](https://github.com/KsfSwap/KsfSwap-Periphery/blob/main/Ksfperiphery.jpg) 
+![Ksfperiphery](https://github.com/KsFSwap/KsFSwap-Periphery/blob/master/KsFPeriphery.jpg) 
 
 # KsfSwap Periphery
 
