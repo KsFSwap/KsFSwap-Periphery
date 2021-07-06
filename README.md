@@ -1,7 +1,4 @@
 ![Ksfperiphery](https://github.com/KsFSwap/KsFSwap-Periphery/blob/master/KsFPeriphery.jpg) 
-
-# KsfSwap Periphery
-
 This repository contains the periphery smart contracts for the KsfSwap Protocol.
 For the lower level core contracts, see the [KsfSwap-core](https://github.com/KsfSwap/KsfSwap-core)
 repository.
